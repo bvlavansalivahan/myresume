@@ -6,7 +6,7 @@
     margin-top: 50px;
     
 }
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1199px) {
     .photo {
         border-radius: 100px;
     }
