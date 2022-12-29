@@ -4,6 +4,12 @@
     display: block;
     margin: auto;
     margin-top: 50px;
+    
+}
+@media only screen and (max-width: 1200px) {
+    .photo {
+        border-radius: 100px;
+    }
 }
 .cv {
     text-align: center;
